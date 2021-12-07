@@ -14,6 +14,6 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```linux
-cd Kodluyoruz-Front-end-odevi
+cd Basit-portfoy-ornegi
 code .
 ```
